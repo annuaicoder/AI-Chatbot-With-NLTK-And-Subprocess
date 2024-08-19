@@ -13,8 +13,8 @@ Train or add changes to your chatbot in the pairs list
 <img width="923" alt="image" src="https://github.com/user-attachments/assets/3a44f6d1-527e-4fbf-8ce5-16e4096ee202">
 
 # Youtube Tutorial
-Watch my youtube tutorial for a more detailed explanation!
-<img width="267" alt="image" src="https://github.com/user-attachments/assets/e3ccd245-951a-4e93-8736-e34a230fbba9">
-
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e3ccd245-951a-4e93-8736-e34a230fbba9">
 
 https://i.ytimg.com/an_webp/63-u4qfQN7c/mqdefault_6s.webp?du=3000&sqp=CKiWj7YG&rs=AOn4CLBrW_9vAruyH_3iatcT-OeqedWRpQ
+
+<img width="1536" alt="image" src="https://github.com/user-attachments/assets/331552b9-1940-493d-a6cf-466f7196e086">
