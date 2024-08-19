@@ -11,3 +11,7 @@ Of course you can change the data I trained this on for example if i ask it who 
 # Where to add changes or train more
 Train or add changes to your chatbot in the pairs list
 <img width="923" alt="image" src="https://github.com/user-attachments/assets/3a44f6d1-527e-4fbf-8ce5-16e4096ee202">
+
+# Youtube Tutorial
+Watch my youtube tutorial for a more detailed explanation
+https://i.ytimg.com/an_webp/63-u4qfQN7c/mqdefault_6s.webp?du=3000&sqp=CKiWj7YG&rs=AOn4CLBrW_9vAruyH_3iatcT-OeqedWRpQ
