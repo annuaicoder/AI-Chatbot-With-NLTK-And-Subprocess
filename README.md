@@ -14,6 +14,7 @@ Train or add changes to your chatbot in the pairs list
 
 # Youtube Tutorial
 Watch my youtube tutorial for a more detailed explanation!
-[thumbnail](https://github.com/user-attachments/assets/dbd75e2d-945b-45b4-be4c-869530c151cb)
+<img width="267" alt="image" src="https://github.com/user-attachments/assets/e3ccd245-951a-4e93-8736-e34a230fbba9">
+
 
 https://i.ytimg.com/an_webp/63-u4qfQN7c/mqdefault_6s.webp?du=3000&sqp=CKiWj7YG&rs=AOn4CLBrW_9vAruyH_3iatcT-OeqedWRpQ
