@@ -14,4 +14,5 @@ Train or add changes to your chatbot in the pairs list
 
 # Youtube Tutorial
 Watch my youtube tutorial for a more detailed explanation
+![mqdefault_6s](https://github.com/user-attachments/assets/53d56a80-9246-47f8-bf00-745b824ce588)
 https://i.ytimg.com/an_webp/63-u4qfQN7c/mqdefault_6s.webp?du=3000&sqp=CKiWj7YG&rs=AOn4CLBrW_9vAruyH_3iatcT-OeqedWRpQ
