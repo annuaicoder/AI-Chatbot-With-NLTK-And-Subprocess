@@ -13,6 +13,7 @@ Train or add changes to your chatbot in the pairs list
 <img width="923" alt="image" src="https://github.com/user-attachments/assets/3a44f6d1-527e-4fbf-8ce5-16e4096ee202">
 
 # Youtube Tutorial
-Watch my youtube tutorial for a more detailed explanation
-![mqdefault_6s](https://github.com/user-attachments/assets/53d56a80-9246-47f8-bf00-745b824ce588)
+Watch my youtube tutorial for a more detailed explanation!
+[thumbnail](https://github.com/user-attachments/assets/dbd75e2d-945b-45b4-be4c-869530c151cb)
+
 https://i.ytimg.com/an_webp/63-u4qfQN7c/mqdefault_6s.webp?du=3000&sqp=CKiWj7YG&rs=AOn4CLBrW_9vAruyH_3iatcT-OeqedWRpQ
